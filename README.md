@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MoulaliN
+- 👋 Hi, I’m @moulalinaguri
 - 👀 I’m interested in Data Engineering
 - 🌱 I’m currently learning Azure Cloud Data Engineering
 - 💞️ I’m looking to collaborate on Azure Bigdata projects
